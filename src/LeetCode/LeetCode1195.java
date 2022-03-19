@@ -70,20 +70,20 @@ public class LeetCode1195 {
             }
         }
 
-        // printNumber.accept(x) outputs "x", where x is an integer.
-        public void number(IntConsumer printNumber) throws InterruptedException {
-            while (this.now <= this.n) {
-                while (this.concurrentFlag != 4) {
-                    if (this.now > this.n) {
-                        return;
-                    }
-                }
-
-                printNumber.accept(this.now);
-                this.now++;
-                this.concurrentFlag = 1;
-            }
-        }
+//        // printNumber.accept(x) outputs "x", where x is an integer.
+//        public void number(IntConsumer printNumber) throws InterruptedException {
+//            while (this.now <= this.n) {
+//                while (this.concurrentFlag != 4) {
+//                    if (this.now > this.n) {
+//                        return;
+//                    }
+//                }
+//
+//                printNumber.accept(this.now);
+//                this.now++;
+//                this.concurrentFlag = 1;
+//            }
+//        }
     }
 
 }

@@ -36,7 +36,7 @@ public class Tecent201909011 {
             }else msjishu++;
         }
 
-        int result = (nsjishu>msoushu?msoushu:nsjishu)+(nsoushu>msjishu?msjishu:nsoushu);
+        int result = (Math.min(nsjishu, msoushu))+(Math.min(nsoushu, msjishu));
         System.out.println(result);
     }
 }
