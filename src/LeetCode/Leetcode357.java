@@ -13,7 +13,7 @@ public class Leetcode357 {
             return sum;
         }else{
 
-            for (int i = 2; i < n && count > 0; i++) {
+            for (int i = 2; i <= n && count > 0; i++) {
                 temp *= count--;
                 sum += temp;
             }
