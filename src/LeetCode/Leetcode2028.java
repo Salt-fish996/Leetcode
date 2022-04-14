@@ -2,7 +2,7 @@ package LeetCode;
 
 import java.math.BigInteger;
 
-public class leetcode2028 {
+class Leetcode2028 {
     public int[] missingRolls(int[] rolls, int mean, int n) {
         // 对于骰子，每次的数字必然在1-6之间
         int totalCount = mean*(n+rolls.length);
