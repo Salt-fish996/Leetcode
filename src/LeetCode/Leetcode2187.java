@@ -29,7 +29,7 @@ public class Leetcode2187 {
                 maxLongTime = mid;
             }
         }
-    }
+    }   
     public int calTrips(int[] time, long t,int totalTips) {
         int sum = 0;
         for (int j : time) {
