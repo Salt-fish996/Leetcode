@@ -53,6 +53,7 @@ public class Leetcode1728 {
 
             }
         }
+        return false;
 
     }
 }
