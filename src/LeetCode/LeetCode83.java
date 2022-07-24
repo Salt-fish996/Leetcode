@@ -1,4 +1,4 @@
-package LeetCode;
+package src.LeetCode;
 
 public class LeetCode83 {
       public class ListNode {

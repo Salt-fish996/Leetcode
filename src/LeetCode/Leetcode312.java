@@ -1,4 +1,4 @@
-package LeetCode;
+package src.LeetCode;
 
 public class Leetcode312 {
 //    //时间复杂度过高，未通过

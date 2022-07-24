@@ -1,4 +1,4 @@
-package LeetCode;
+package src.LeetCode;
 
 public class Leetcode111 {
     public int high(TreeNode root){

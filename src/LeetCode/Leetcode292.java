@@ -1,4 +1,4 @@
-package LeetCode;
+package src.LeetCode;
 
 public class Leetcode292 {
     public boolean canWinNim(int n) {

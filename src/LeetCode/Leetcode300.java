@@ -1,4 +1,4 @@
-package LeetCode;
+package src.LeetCode;
 
 //最长上升子序列
 public class Leetcode300 {

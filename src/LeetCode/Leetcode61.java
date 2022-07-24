@@ -1,4 +1,4 @@
-package LeetCode;
+package src.LeetCode;
 
 //旋转链表，通过
 public class Leetcode61 {

@@ -1,4 +1,4 @@
-package LeetCode;
+package src.LeetCode;
 
 public class Leetcode112 {
     public boolean hasPathSum(TreeNode root, int sum) {

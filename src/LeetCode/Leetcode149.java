@@ -1,4 +1,4 @@
-package LeetCode;
+package src.LeetCode;
 
 //通过的程序，注意在计算k=y1-y2的时候一定要使用long而不能够使用int，测试数据会产生int溢出，如65536*65536 = 0
 public class Leetcode149 {

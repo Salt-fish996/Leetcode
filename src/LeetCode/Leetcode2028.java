@@ -1,4 +1,4 @@
-package LeetCode;
+package src.LeetCode;
 
 import java.math.BigInteger;
 class Leetcode2028 {

@@ -1,4 +1,4 @@
-package LeetCode;
+package src.LeetCode;
 
 public class Leetcode63 {
     /*当数组中有障碍物时，如果这个点有障碍物，那么p[i][j]=0表示这个点不能够到达，其余与62题相同*/

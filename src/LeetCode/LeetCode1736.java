@@ -1,4 +1,4 @@
-package LeetCode;
+package src.LeetCode;
 
 public class LeetCode1736 {
     public String maximumTime(String time) {

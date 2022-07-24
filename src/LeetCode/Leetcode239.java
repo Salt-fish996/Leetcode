@@ -1,4 +1,4 @@
-package LeetCode;
+package src.LeetCode;
 
 
 //滑动窗口，通过，时间比较长

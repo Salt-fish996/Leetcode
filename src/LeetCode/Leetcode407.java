@@ -1,4 +1,4 @@
-package LeetCode;
+package src.LeetCode;
 
 /*错误答案，思路错误*/
 public class Leetcode407 {

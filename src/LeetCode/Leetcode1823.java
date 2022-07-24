@@ -1,4 +1,4 @@
-package LeetCode;
+package src.LeetCode;
 
 public class Leetcode1823 {
     public int findTheWinner(int n, int k) {

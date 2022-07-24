@@ -1,4 +1,4 @@
-package LeetCode;
+package src.LeetCode;
 //猜数字1，通过
 public class Leetcode374 {
     private int guess(int n){

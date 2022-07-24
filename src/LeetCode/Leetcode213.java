@@ -1,4 +1,4 @@
-package LeetCode;
+package src.LeetCode;
 
 public class Leetcode213 {
     public int sum(int[] nums,int now, int[] big,int begin){

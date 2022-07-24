@@ -1,4 +1,4 @@
-package LeetCode;
+package src.LeetCode;
 
 //计算各个位置数字均不相同的数目个数，通过
 public class Leetcode357 {

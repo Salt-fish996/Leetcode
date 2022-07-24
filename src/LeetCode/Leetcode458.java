@@ -1,4 +1,4 @@
-package LeetCode;
+package src.LeetCode;
 
 public class Leetcode458 {
     public int poorPigs(int buckets, int minutesToDie, int minutesToTest) {

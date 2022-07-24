@@ -1,4 +1,4 @@
-package LeetCode;
+package src.LeetCode;
 
 public class LeetCode1195 {
     // 执行会超时，最好的办法就是采用类型go预压管道的方式

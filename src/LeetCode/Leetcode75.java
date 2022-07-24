@@ -1,4 +1,4 @@
-package LeetCode;
+package src.LeetCode;
 
 //颜色分类，通过
 public class Leetcode75 {

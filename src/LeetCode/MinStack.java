@@ -1,4 +1,4 @@
-package LeetCode;
+package src.LeetCode;
 
 import java.util.Stack;
 import java.util.TreeMap;

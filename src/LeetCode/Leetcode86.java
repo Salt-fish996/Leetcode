@@ -1,4 +1,4 @@
-package LeetCode;
+package src.LeetCode;
 
 public class Leetcode86 {
     public ListNode partition(ListNode head, int x) {

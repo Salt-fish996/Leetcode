@@ -1,4 +1,4 @@
-package LeetCode;
+package src.LeetCode;
 
 public class Leetcode1813 {
     public boolean areSentencesSimilar(String sentence1, String sentence2) {

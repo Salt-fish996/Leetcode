@@ -1,4 +1,4 @@
-package LeetCode;
+package src.LeetCode;
 
 import com.sun.org.apache.bcel.internal.generic.IF_ACMPEQ;
 

@@ -1,4 +1,4 @@
-package LeetCode;
+package src.LeetCode;
 
 import java.util.TreeMap;
 /*算法时间复杂度过高，未通过*/

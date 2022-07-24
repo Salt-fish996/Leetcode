@@ -1,4 +1,4 @@
-package LeetCode;
+package src.LeetCode;
 
 public class Leetcode997 {
     public int findJudge(int N, int[][] trust) {

@@ -1,4 +1,4 @@
-package LeetCode;
+package src.LeetCode;
 
 public class Leetcode97 {
     public boolean check(String s1,String s2,String s3,int b1,int b2,int b3){

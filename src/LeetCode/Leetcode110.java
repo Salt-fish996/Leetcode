@@ -1,4 +1,4 @@
-package LeetCode;
+package src.LeetCode;
 
 //判断平衡二叉树
 public class Leetcode110 {

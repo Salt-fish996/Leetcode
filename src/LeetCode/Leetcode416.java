@@ -1,4 +1,4 @@
-package LeetCode;
+package src.LeetCode;
 
 public class Leetcode416 {
 //    public boolean check(List<Integer> set, int k, int sum){

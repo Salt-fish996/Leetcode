@@ -1,4 +1,4 @@
-package LeetCode;
+package src.LeetCode;
 
 public class LeetCode100 {
       public static class TreeNode {

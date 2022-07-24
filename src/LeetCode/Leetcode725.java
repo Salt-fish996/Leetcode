@@ -1,4 +1,4 @@
-package LeetCode;
+package src.LeetCode;
 
 
 //分割链表，通过

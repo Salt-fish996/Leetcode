@@ -1,4 +1,4 @@
-package LeetCode;
+package src.LeetCode;
 
 //通过
 public class Leetcode279 {

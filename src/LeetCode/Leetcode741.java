@@ -1,4 +1,4 @@
-package LeetCode;
+package src.LeetCode;
 
 public class Leetcode741 {
 //    //使用maxValue[l][i][j]表示在到达地i行的时候，第一条路过第i点，第二条路路过第j点

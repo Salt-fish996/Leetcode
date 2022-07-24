@@ -1,4 +1,4 @@
-package LeetCode;
+package src.LeetCode;
 
 public class Leetcode322 {
     /*找硬币，要求找出最少的硬币数目组成amount

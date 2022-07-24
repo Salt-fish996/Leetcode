@@ -1,4 +1,4 @@
-package LeetCode;
+package src.LeetCode;
 
 public class Leetcode55 {
     //用boolean数组flag[i]来表示i位置上的点是否可以到达

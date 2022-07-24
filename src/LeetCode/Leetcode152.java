@@ -1,4 +1,4 @@
-package LeetCode;
+package src.LeetCode;
 
 //最大乘积子序列
 public class Leetcode152 {

@@ -1,4 +1,4 @@
-package LeetCode;
+package src.LeetCode;
 
 public class Leetcode313 {
     public int nthSuperUglyNumber(int n, int[] primes) {

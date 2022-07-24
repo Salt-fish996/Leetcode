@@ -1,4 +1,4 @@
-package LeetCode;
+package src.LeetCode;
 
 public class Leetcode713 {
     public int numSubarrayProductLessThanK(int[] nums, int k) {

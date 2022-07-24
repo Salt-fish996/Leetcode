@@ -1,4 +1,4 @@
-package LeetCode;
+package src.LeetCode;
 
 //俄罗斯套娃信封问题,通过
 public class Leetcode354 {
